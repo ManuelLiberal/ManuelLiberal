@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Franco+Ezequiel+Oropel+Sottile++;Full-Stack-Web-Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
 
-<p align="center"><em>¡Hola 🤙! Me llamo Franco, podes decirme Fran, tengo 22 años y soy Full Stack Developer.
+<p align="center"><em>¡Hola 🤙! Me llamo Manuel, tengo 23 años y soy Full Stack Developer.
 Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br></br>¡Me gustaria compartirte mis habilidades!</em></p>
 
 <br></br>
@@ -18,7 +18,6 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
  
 <div align="center">
 • Javascript
-• TypeScript
 • Git
 • React.js
 • Redux
@@ -26,20 +25,16 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 • CSS
 • NodeJs 
 • Express
-• Postman
+• Insomnia
 • PostgreSQL
 • Sequelize
-• Webpack
-• Babel •
 
 </div>
 
 <div align="center" >
 
-<!-- <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>   
-<a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" /> </a> 
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a> -->
 
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a> -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
