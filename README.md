@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Manuel+Liberal++;Full-Stack-Web-Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
-- 📄 Buenas!! Mi nombre es Manuel y tengo 23 años. Recientemente terminé mi cursada en el Bootcamp Henry. Por lo que me encuentro en búsqueda laboral activa como fullstack, backend o frontend developer. Me considero una persona que está en constante aprendizaje y tiene mucha facilidad para trabajar en equipo. Acá abajo podés obtener más información sobre mi perfil.
+- 📄 Buenas!! Mi nombre es Manuel y tengo 23 años. Recientemente terminé mi cursada en el bootcamp de <em>Henry</em>, por lo que me encuentro en búsqueda laboral activa como fullstack, backend o frontend developer. Me considero una persona que está en constante aprendizaje y tiene mucha facilidad para trabajar en equipo. Acá abajo podés obtener más información sobre mi perfil.
 <br></br>
 </p><h2 align="left">Contact:</h2><p align="left"> 
   
