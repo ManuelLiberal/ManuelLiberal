@@ -13,7 +13,12 @@
 Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br></br>¡Me gustaria compartirte mis habilidades!</em></p>
 
 <br></br>
-
+</p><h2 align="center">Contacto:</h2><p align="left"> 
+  
+<p align="center">
+    <a href="https://www.linkedin.com/in/manuel-liberal" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
+    <a href="mailto:liberalmanuel.em.h2@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
+</p>
 </p><h2 align="center">Lenguajes y habilidades:</h2><p align="left"> 
  
 <div align="center">
@@ -47,20 +52,4 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 <br></br>
-
-## Mis proyectos:
-
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="center">
-  <a href="https://github.com/F-ranco/PI-Franco-Food"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=franco-oropel&repo=PI-Franco-Food&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="FrankFood App"></a>
-  
-  <a href="https://github.com/franco-oropel/HiTalent-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=franco-oropel&repo=HiTalent-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="HiTalent Project"></a>
-        
-<br></br>
-    
-</p><h2 align="center">Contacto:</h2><p align="left"> 
-  
-<p align="center">
-    <a href="https://www.linkedin.com/in/manuel-liberal" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
-    <a href="mailto:liberalmanuel.em.h2@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
-</p>
+ 
