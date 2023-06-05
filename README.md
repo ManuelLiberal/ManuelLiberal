@@ -11,13 +11,13 @@
 
 - 📄 Actualmente cuento con experiencia desarrollando con tecnologías como React, Node, Express, Redux, Sequelize y PostgreSQL además me encanta el trabajo en equipo, la resolución de problemas y el constante aprendizaje. He terminado recientemente mi cursada del Bootcamp Henry y me encuentro en búsqueda laboral activa como fullstack, backend o frontend developer. 
 <br></br>
-</p><h2 align="left">Contacto:</h2><p align="left"> 
+</p><h2 align="left">Contact:</h2><p align="left"> 
   
 <p align="left">
     <a href="https://www.linkedin.com/in/manuel-liberal" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
     <a href="mailto:liberalmanuel.em.h2@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
 </p>
-</p><h2 align="left">Lenguajes y habilidades:</h2><p align="left"> 
+</p><h2 align="left">Languages and Tools:</h2><p align="left"> 
  
 <div align="left">
  HTML
