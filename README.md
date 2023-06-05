@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  ¡Bienvenida/o a mi perfil!
+  ¡Hola, bienvenida/o a mi perfil!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Manuel+Liberal++;Full-Stack-Web-Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
 
-- 📄 Actualmente cuento con experiencia desarrollando con tecnologías como React, Node, Express, Redux, Sequelize y PostgreSQL además me encanta el trabajo en equipo, la resolución de problemas y el constante aprendizaje. He terminado recientemente mi cursada del Bootcamp Henry y me encuentro en búsqueda laboral activa como fullstack, backend o frontend developer. 
+- 📄 Buenas!! Mi nombre es Manuel y tengo 23 años. además me encanta el trabajo en equipo, la resolución de problemas y el constante aprendizaje. He terminado recientemente mi cursada del Bootcamp Henry y me encuentro en búsqueda laboral activa como fullstack, backend o frontend developer. 
 <br></br>
 </p><h2 align="left">Contact:</h2><p align="left"> 
   
