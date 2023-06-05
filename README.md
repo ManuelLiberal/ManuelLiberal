@@ -20,7 +20,7 @@
 </p><h2 align="left">Lenguajes y habilidades:</h2><p align="left"> 
  
 <div align="left">
-• HTML
+ HTML
 • CSS
 • Javascript
 • React
