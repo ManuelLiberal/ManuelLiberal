@@ -15,13 +15,13 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 <br></br>
 </p><h2 align="center">Contacto:</h2><p align="left"> 
   
-<p align="center">
+<p align="left">
     <a href="https://www.linkedin.com/in/manuel-liberal" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
     <a href="mailto:liberalmanuel.em.h2@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
 </p>
 </p><h2 align="center">Lenguajes y habilidades:</h2><p align="left"> 
  
-<div align="center">
+<div align="left">
 • HTML
 • CSS
 • Javascript
@@ -37,7 +37,7 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 
 </div>
 
-<div align="center" >
+<div align="left" >
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
